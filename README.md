@@ -2,7 +2,7 @@
 This repository contains Chegg APIs available for students in [HackingEDU 2015 event](http://hackingedu.co)
 
 ### Getting started
-* Come to the Chegg booth to register and get your team's API key (and Chegg Swag to boot)!
+* Come to the Chegg booth to register and get your team's API key and secret (and Chegg Swag to boot)!
 * Install Google chrome browser `postman` from [https://www.getpostman.com/](https://www.getpostman.com/)
 * Import the file `chegg-hackingedu-2015-postman.json` available in this stash repo into POSTMAN
 * In POSTMAN configure HTTP Request header as below in every http request call
