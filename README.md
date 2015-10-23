@@ -13,14 +13,14 @@ This repository contains Chegg APIs available for students participating in [Hac
 
 ### Chegg services
 Below is the set of Chegg product APIs available for HackingEDU participants
-##### Basic Textbook Search
+##### - Basic Textbook Search
 Search for basic information on books by relevant attributes such as title and author, ISBN or EAN.
-##### Textbook Catalog (including related items)
+##### - Textbook Catalog (including related items)
 Fetch detailed information such as title, author and edition about textbooks or related items. Find related items to a textbook that include recommended books, supplement materials, e-books and textbook solutions.
-##### Schools
+##### - Schools
 Search for a school by relevant attributes such as name or state
 Fetch school information such as funding type, majors they offer, similar schools, cost statistics 
-##### Scholarships
+##### - Scholarships
 Search for a scholarship by relevant attributes such as name, school type, or state.
 Fetch scholarship details such as provider and requirements
 
@@ -32,12 +32,12 @@ Along with a chance to win grand prizes given by HackingEDU, special prize will 
 * **Design**: How well is the UX/UI designed?  Is it usable?
 * **Technicality**: How creative does the project leverage various Chegg API's?
 
-**Prize** : Up to $5000 of Chegg Services in total, which include: 1 Year Chegg Textbooks, 1 Year Chegg Study, 4 Hours Chegg Tutoring Sessions for each member of group.
+**Prize** : Up to $5000 of Chegg Services in total, which include for each team member: 1 Year free Chegg Textbooks + 1 Year free Chegg Study + 4 Hours Chegg Tutoring Sessions.
 
 
 ### Got questions/issues?
-* **Need API key?** Stop by the Chegg booth, talk to Cheggsters to grab your API key and awesome Chegg Swags!!!!
-* **Got Questions?** Chegg volunteers are available at the booth and also online on Gitter Instant messenger at [https://gitter.im/CheggEng/hackingedu-2015](https://gitter.im/CheggEng/hackingedu-2015?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+* **Need API key?** Stop by the Chegg booth and talk to Cheggsters to grab your API key and awesome Chegg Swags!!!!
+* **Got Questions?** Cheggsters are available at the booth and also online on Gitter instant messenger at [https://gitter.im/CheggEng/hackingedu-2015](https://gitter.im/CheggEng/hackingedu-2015?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 [![Join the chat at https://gitter.im/CheggEng/hackingedu-2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CheggEng/hackingedu-2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 HackingEdu 2015
