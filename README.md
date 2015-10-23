@@ -34,5 +34,8 @@ Along with chance to win prizes given by HackingEDU prize, special prize given f
 * **Need API key?** Stop-by Chegg booth, talk to Cheggsters to grab your API key and one of awesome Chegg Swags!!!!
 * **Got API questions?** Chegg volunteers are available at booth and also online on Gitter Instant messenger at [https://gitter.im/CheggEng/hackingedu-2015](https://gitter.im/CheggEng/hackingedu-2015?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
+[![Join the chat at https://gitter.im/CheggEng/hackingedu-2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CheggEng/hackingedu-2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+HackingEdu 2015
+
 ### Chegg swags
 ![image](http://s24.postimg.org/uwwj2alat/chegg_swag.jpg)
