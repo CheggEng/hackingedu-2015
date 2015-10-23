@@ -1,5 +1,5 @@
 ## Chegg HackingEDU 2015
-This repository contains Chegg APIs available for students in [HackingEDU 2015 event](hackingedu.co)
+This repository contains Chegg APIs available for students in [HackingEDU 2015 event](http://hackingedu.co)
 
 ### Getting started
 * Come to the Chegg booth to register and get your team's API key (and Chegg Swag to boot)!
