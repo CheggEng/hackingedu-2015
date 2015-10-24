@@ -213,7 +213,7 @@
 		{
 			"id": "ccc368c0-bad5-a257-bec8-d699403aaff6",
 			"headers": "Accept: application/json\nAuthorization: Basic {{base64encodedString}}\n",
-			"url": "https://hackingedu.chegg.com/hacking-edu/search?q=biology&f.profile=federated-book-srp&f.chgsec=nav&f.chgsubcomp=serp",
+			"url": "https://hackingedu.chegg.com/hacking-edu/search?q=biology",
 			"preRequestScript": "",
 			"pathVariables": {},
 			"method": "GET",
