@@ -7,7 +7,7 @@ This repository contains Chegg APIs available for students participating in [Hac
 * Import the file `chegg-hackingedu-2015-postman.json` available in this repository into POSTMAN
 * In POSTMAN configure HTTP Request header as below in every http request call:
     * "Authorization: Basic $base64encodedString"
-      * Logic to calculate base-64 encoded string is `base64encodedString = encodeBase64(apiKey + ':' + apiSecret)`
+      * Logic to calculate [base-64 encoded string](https://www.base64encode.org/) is `base64encodedString = encodeBase64(apiKey + ':' + apiSecret)` **NOTE:** The base64encodedString is provided to you in the email containing your keys
       * This header is already present in POSTMAN collection with a global variable `base64encodedString`.  Please [set Postman global variable](http://blog.getpostman.com/2014/02/20/using-variables-inside-postman-and-collection-runner/)  with value you received in email
 * Play around with sample requests in `POSTMAN` to try different Chegg REST services
 * Follow instructions [here](http://blog.getpostman.com/2015/08/31/writing-front-end-api-code-with-postman/) to auto-generate code from POSTMAN requests into language of your choice (Java, Javascript, NodeJS, Swift, curl, PHP, Ruby and many more...)
