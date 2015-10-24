@@ -7,7 +7,7 @@ This repository contains Chegg APIs available for students participating in [Hac
 * Import the file `chegg-hackingedu-2015-postman.json` available in this repository into POSTMAN
 * In POSTMAN configure HTTP Request header as below in every http request call:
     * "Authorization: Basic $base64encodedString"
-      * Logic to calculate base-64 encoded string is `base64encodedString = encodeBase64(apiKey + ':' + apiSecret)`
+      * Logic to calculate [base-64 encoded](https://www.base64encode.org/) string is `base64encodedString = encodeBase64(apiKey + ':' + apiSecret)` **NOTE:** this string is provided to you in the email containing your keys
 * Play around with sample requests in `POSTMAN` to try different Chegg REST services
 
 
@@ -25,7 +25,7 @@ Search for a scholarship by relevant attributes such as name, school type, or st
 Fetch scholarship details such as provider and requirements
 
 ### What's the prize?
-Along with a chance to win grand prizes given by HackingEDU, special prize will be given for the **Best App using Chegg API**.  We will be judging for 
+Along with a chance to win grand prizes given by HackingEDU, special prize will be given for the **Best App using Chegg API**.  We will be judging for
 * **Implementation/Execution**: How complete the project is.
 * **Potential Impact**: Does this solve a (an important) problem in education? Is this something that could actually go to market or be turned into something useful within education?
 * **Presentation**: How well did the team pitch/demo their project?
